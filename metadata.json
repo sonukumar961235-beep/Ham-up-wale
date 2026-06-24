@@ -1,0 +1,6 @@
+{
+  "name": "Ham up wale",
+  "description": "Short video platform with vertical feed and creator tools",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
